@@ -70,6 +70,7 @@
 .top-nav-sec-nav{
     position: sticky;
     position: -webkit-sticky;
+    position: -ms-page;
     top: 0;   
     background-color: #ffffff;    
     z-index: 1;     
