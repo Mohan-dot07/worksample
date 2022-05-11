@@ -1216,6 +1216,7 @@ section .counter div h1::after {
         justify-content: center;
         align-items: center;
         text-align: center;
+         margin: 20px 0;
     }
 
     .prog-sec .prog-container h4 {
