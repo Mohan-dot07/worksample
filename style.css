@@ -393,6 +393,7 @@ footer .footer-icon ul li a:hover {
     height: 35px;
     font-family: 'Font Awesome 5 Free';
     font-size: 33px;
+    z-index:1;
 }
 
 .prepare {
