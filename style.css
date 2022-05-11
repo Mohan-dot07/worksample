@@ -1362,6 +1362,9 @@ section .counter div h1::after {
         align-items: center;
         justify-content: center;
     }
+    .top-nav-sec .top-nav-show{
+        width: 50%;
+    }
     .top-nav-sec .top-nav-responsive{
         width: 50%;
     }
