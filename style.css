@@ -371,7 +371,7 @@ footer .footer-icon ul li a:hover {
 
 .preparing .preparing-right .preparing-right-list ul {
     list-style-type: none;
-    overflow: hidden;
+    
 }
 
 .preparing .preparing-right .preparing-right-list ul li {
@@ -1324,6 +1324,8 @@ section .counter div h1::after {
     .footer .footer-icon{
         width: 100%;
     }
+     .preparing .preparing-right .preparing-right-list ul {
+          margin-left:40px;
 }
 @media screen and (max-width:575px) {
     .header div.top-right{
