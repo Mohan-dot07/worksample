@@ -1360,4 +1360,7 @@ section .counter div h1::after {
     .header .top-left{
         
     }
+     .preparing .preparing-right{
+          margin-left:0;
+     }
 }
